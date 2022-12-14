@@ -1,12 +1,12 @@
 import Layout from "../src/layout";
 
-const About = () => {
+const Contact = () => {
   return (
     <Layout>
-      <h1>About!</h1>
+      <h1>Contact!</h1>
       <p>Hello About!</p>
     </Layout>
   );
 };
 
-export default About;
+export default Contact;
